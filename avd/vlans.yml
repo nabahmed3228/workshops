@@ -5,6 +5,10 @@ vlans:
     name: Ten
   - 20:
     name: Twenty
+<<<<<<< Updated upstream
   - 30:
     name: Thirty
+=======
+  
+>>>>>>> Stashed changes
        
